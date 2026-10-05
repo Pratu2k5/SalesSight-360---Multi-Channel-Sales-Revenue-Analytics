@@ -92,10 +92,10 @@ Includes:
 ![Sales Overview](Screenshots/1_Sales_Overview.png)
 
 ### Sales Funnel & Forecast
-![Sales Funnel & Forecast](Screenshots/2_Sales_Funnel_Forecast.png)
+![Sales Funnel & Forecast](Screenshots/2_Sales_Funnel_%26_Forecast.png)
 
 ### Product & Sales Performance
-![Product & Sales Performance](Screenshots/3_Product_Sales_Performance.png)
+![Product & Sales Performance](Screenshots/3_Product_%26_Sales_Performance.png)
 
 ## 💡 Learning Outcomes
 
