@@ -89,7 +89,7 @@ Includes:
 ## 📷 Dashboard Preview
 
 ### Sales Overview
-![Sales Overview](Screenshots/1_Sales_Overview.png)
+(Screenshots/1_Sales_Overview.png)
 
 ### Sales Funnel & Forecast
 ![Sales Funnel & Forecast](Screenshots/2_Sales_Funnel_Forecast.png)
